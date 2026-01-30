@@ -34,16 +34,4 @@ Valquíria Alencar (Senior Data/AI Analyst no Insper)
 
 Vinicius Caridá (Especialista em Dados no Itaú)
 
-Como configurar seu repositório no GitHub:
-Para que seu perfil pareça profissional para recrutadores de TI, siga esta organização de pastas:
 
-Pasta Raiz: Coloque o arquivo .ipynb (o seu notebook) e o README.md.
-
-Pasta img: Crie uma pasta chamada img e suba as fotos/prints dos gráficos que você tirou.
-
-No arquivo README: No campo de "Visualizações", o código ![Texto](./img/nome_da_foto.png) fará com que a imagem apareça automaticamente na página inicial do seu repositório.
-
-Dica Técnica para o LinkedIn:
-Como você mencionou que quer mostrar evolução na TI, ao postar o link do GitHub, use um termo técnico:
-
-"Repositório atualizado com o Pipeline de ETL (Extract, Transform, Load) e análise exploratória inicial."
